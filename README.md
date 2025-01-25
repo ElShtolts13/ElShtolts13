@@ -10,6 +10,4 @@ I'm 28 years old and I live in Rostov-on-Don.
 🌱 Right now, I'm participating in SWIFT MARATHON 14, where I'm honing my skills in UIKit and practicing teamwork. This is not my first marathon; 
 I've previously participated in similar projects and even led a team in one of the educational challenges.
 
-## Contact
 
-📫 I would be happy to chat and collaborate! You can reach me via email: [your email or social media link].
